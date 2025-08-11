@@ -7,9 +7,11 @@
 
 🔭 I’m currently working on building high quality recommendation systems
 
-🌱 I’m interested in building end-to-end robust ML systems as well as designing and analyzing A/B tests and experimentation frameworks for products
+🌱 I’m interested in building end-to-end robust ML systems 
 
-📚 I’m currently learning advanced Agentic system design and production grade LLM optimization 
+⚡️ I'm learning designing and analyzing A/B tests and experimentation frameworks for products
+
+📚 I’m also studying advanced Agentic system design and production grade LLM optimization 
 
 💬 Talk to me about Data/ML and rapid development in the field of AI
 
