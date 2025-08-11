@@ -9,7 +9,7 @@
 
 🌱 I’m interested in building end-to-end robust ML systems 
 
-⚡️ I'm learning designing and analyzing A/B tests and experimentation frameworks for products
+⚡️ I'm learning Causal Inference, designing and analyzing A/B tests and experimentation frameworks for product improvement
 
 📚 I’m also studying advanced Agentic system design and production grade LLM optimization 
 
