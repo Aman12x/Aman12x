@@ -5,7 +5,7 @@
 
 ### About me:
 
-<h4🔭 I’m currently working on building high quality recommendation systems</h4>
+🔭 I’m currently working on building high quality recommendation systems
 
 🌱 I’m interested in building end-to-end robust ML systems as well as designing and analyzing A/B tests and experimentation frameworks for products
 
@@ -20,7 +20,7 @@
 ---
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/aman-kumar-singh0524) | 
+[LinkedIn](https://www.linkedin.com/in/aman-kumar-singh0524) 
 
 ---
 
