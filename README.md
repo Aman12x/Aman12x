@@ -17,7 +17,7 @@
 
 📫 Reach me at: singhaman0524@gmail.com
 
-⚡ Fun fact: I’m equally passionate about crafting scalable data systems as I am about Sports(in general) and attending every music concert i can  💪
+⚡ Fun fact: I’m equally passionate about crafting scalable Machine Learning systems as I am about Sports(in general) and attending every music concert i can 🎤�
 
 ---
 
