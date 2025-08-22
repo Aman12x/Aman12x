@@ -13,7 +13,7 @@
 
 📚 I’m also studying advanced Agentic system design and production grade LLM optimization 
 
-💬 Talk to me about Data/ML and rapid development in the field of AI
+💬 Talk to me about Data/ML and rapid developments in the field of AI
 
 📫 Reach me at: singhaman0524@gmail.com
 
