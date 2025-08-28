@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on building high quality recommendation systems
 
-🌱 I’m interested in building end-to-end robust ML systems 
+🌱 I’m interested in building robust ML systems 
 
 ⚡️ I'm learning Causal Inference, designing and analyzing A/B tests and experimentation frameworks for product improvement
 
