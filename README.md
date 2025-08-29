@@ -21,7 +21,7 @@
 ---
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/aman-kumar-singh0524) 
+[LinkedIn](https://www.linkedin.com/in/aman-singh018/) 
 
 ---
 
