@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">MS in Data Science @ New Jersey Institute of Technology | AWS Certified Machine Learning Associate</h3>
+<h3 align="center">MS in Data Science @ New Jersey Institute of Technology | AWS Certified Machine Learning Engineer</h3>
 
 ---
 
