@@ -25,7 +25,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman12x&layout=compact)
 
 
 <h3 align="left">Languages and Tools:</h3>
