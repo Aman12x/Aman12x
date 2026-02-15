@@ -22,6 +22,8 @@
 
 ### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/aman-singh018/) 
+### For more info go to 
+[AMA](https://spokespersonai-production-3dbc.up.railway.app)
 
 ---
 
