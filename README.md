@@ -15,7 +15,7 @@
 
 💬 Talk to me about Data/ML and rapid developments in the field of AI
 
-📫 Reach me at: singhaman0524@gmail.com
+📫 Reach me at: singhaman0524@gmail.com or amanksingh0611@gmail.com
 
 
 ---
