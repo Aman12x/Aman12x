@@ -9,7 +9,7 @@
 
 🌱 I’m interested in building robust ML systems 
 
-⚡️ I'm learning Causal Inference, designing and analyzing A/B tests and experimentation frameworks for product improvement
+⚡️ I'm learning Causal Inference, and have experience designing and analyzing A/B tests and experimentation frameworks for product improvement
 
 📚 I’m also studying advanced Agentic system design and production grade LLM optimization 
 
