@@ -2,7 +2,7 @@
 <h3 align="center">Product Data Scientist · Causal Inference · Experimentation · LLM Systems</h3>
 
 <p align="center">
-  <a href="https://spokespersonai-production-3dbc.up.railway.app">Portfolio</a> ·
+  <a href="https://singhaman.dev">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/aman-singh018/">LinkedIn</a> ·
   singhaman0524@gmail.com
 </p>
