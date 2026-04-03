@@ -61,8 +61,8 @@ Experiment design · Metric decomposition · Causal inference (IV, 2SLS, DiD, RD
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman12x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman12x&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman12x&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman12x&theme=tokyonight"/>
 </p>
 
 <p align="center">
