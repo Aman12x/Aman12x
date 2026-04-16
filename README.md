@@ -26,10 +26,9 @@
 Experiment design · Metric decomposition · Causal inference (IV, 2SLS, DiD, RDD) · LLM pipelines · Agentic workflows · End-to-end ML system design · A/B testing at scale
 
 ---
-
 ### Languages and Tools
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" title="R"/></td>
@@ -42,6 +41,8 @@ Experiment design · Metric decomposition · Causal inference (IV, 2SLS, DiD, RD
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" height="40" title="Pandas"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40" title="SciPy"/></td>
+  </tr>
+  <tr>
     <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" title="FastAPI"/></td>
     <td><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" title="Streamlit"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/></td>
