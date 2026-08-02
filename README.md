@@ -14,19 +14,11 @@
 
 <br>
 
-I work on the measurement side of product: what actually moved a metric, whether the change was real, and how much of it holds up. Lately I am wiring that same rigor into agentic systems so the analysis runs end to end.
+Most of my work comes down to one question: did this actually change anything?
 
-<br>
+That usually means running experiments, and when an experiment isn't possible, working with observational data and being upfront about what it can't tell you. The rest of the time I'm building the thing being measured, mostly ranking and recommendation systems and the pipelines that keep a model working once it's live.
 
-### What I work on
-
-| | |
-|:--|:--|
-| **Agentic DS systems** | Metric decomposition, anomaly detection, and experiment readouts |
-| **Experimentation at scale** | CUPED variance reduction, SPRT sequential testing, O'Brien-Fleming boundaries, HTE subgroups |
-| **Causal inference** | IV/2SLS, DiD, RDD, and propensity score methods on observational data |
-| **Ads, recsys, personalisation** | Retrieval and ranking systems that decide what a user sees, and the auction and bias corrections underneath them |
-| **Production ML and LLM** | RAG, LangGraph agents, feature stores, eval harnesses, serving, monitoring |
+Right now I'm interested in getting LLMs to handle the tedious parts of analysis.
 
 <br>
 
