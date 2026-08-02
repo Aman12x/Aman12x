@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-    <img src="header-dark.svg" alt="Aman Singh, Product Data Scientist" width="100%">
+    <img src="header-dark.svg" alt="Aman Singh, ML Engineer and Product Data Scientist" width="100%">
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-I work on the measurement side of product: what actually moved a metric, whether the change was real, and how much of it holds up. Lately I am wiring that same rigor into agentic systems so the analysis runs end to end instead of dying in a notebook.
+I work on the measurement side of product: what actually moved a metric, whether the change was real, and how much of it holds up. Lately I am wiring that same rigor into agentic systems so the analysis runs end to end.
 
 <br>
 
@@ -22,7 +22,7 @@ I work on the measurement side of product: what actually moved a metric, whether
 
 | | |
 |:--|:--|
-| **Agentic DS systems** | Metric decomposition, anomaly detection, and experiment readouts that land as a PM-ready narrative |
+| **Agentic DS systems** | Metric decomposition, anomaly detection, and experiment readouts |
 | **Experimentation at scale** | CUPED variance reduction, SPRT sequential testing, O'Brien-Fleming boundaries, HTE subgroups |
 | **Causal inference** | IV/2SLS, DiD, RDD, and propensity score methods on observational data |
 | **Ads, recsys, personalisation** | Retrieval and ranking systems that decide what a user sees, and the auction and bias corrections underneath them |
