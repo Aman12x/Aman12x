@@ -14,7 +14,7 @@
 
 <br>
 
-Most of my work comes down to one question: did this actually change anything?
+Most of my work comes down to one question: did an action actually change anything?
 
 That usually means running experiments, and when an experiment isn't possible, working with observational data and being upfront about what it can't tell you. The rest of the time I'm building the thing being measured, mostly ranking and recommendation systems and the pipelines that keep a model working once it's live.
 
