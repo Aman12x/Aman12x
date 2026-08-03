@@ -62,4 +62,10 @@ Right now I'm interested in getting LLMs to handle the tedious parts of analysis
 
 <br>
 
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="500">
+</p>
+
+<br>
+
 <sub>Open to talking about experiment design, metric frameworks, and causal inference. Reach me at <a href="mailto:singhaman0524@gmail.com">singhaman0524@gmail.com</a>.</sub>
