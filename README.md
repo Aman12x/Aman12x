@@ -10,6 +10,7 @@
   <a href="https://singhaman.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=3FB9A5"></a>
   <a href="https://www.linkedin.com/in/aman-singh018/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=3FB9A5"></a>
   <a href="mailto:singhaman0524@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=3FB9A5"></a>
+  <img src="https://komarev.com/ghpvc/?username=Aman12x&style=flat-square&color=0D1117&label=Profile+views&labelColor=0D1117">
 </p>
 
 <br>
