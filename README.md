@@ -2,14 +2,24 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-    <img src="header-dark.svg" alt="Aman Singh, ML Engineer and Product Data Scientist" width="100%">
+    <img
+      src="header-dark.svg"
+      alt="Aman Singh, ML Engineer and Product Data Scientist"
+      width="100%"
+    >
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://singhaman.dev"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=3FB9A5"></a>
-  <a href="https://www.linkedin.com/in/aman-singh018/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=3FB9A5"></a>
-  <a href="mailto:singhaman0524@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=3FB9A5"></a>
+  <a href="https://singhaman.dev">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=3FB9A5">
+  </a>
+  <a href="https://www.linkedin.com/in/aman-singh018/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=3FB9A5">
+  </a>
+  <a href="mailto:singhaman0524@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=maildotru&logoColor=3FB9A5">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Aman12x&style=flat-square&color=0D1117&label=Profile+views&labelColor=0D1117">
 </p>
 
@@ -64,9 +74,17 @@ Right now I'm interested in getting LLMs to handle the tedious parts of analysis
 <br>
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="500">
+  <img
+    src="https://streak-stats.demolab.com?user=Aman12x&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=3FB9A5&amp;fire=3FB9A5&amp;currStreakLabel=3FB9A5&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;sideLabels=8B949E&amp;dates=6E7681&amp;date_format=M%20j%5B,%20Y%5D&amp;disable_animations=true&amp;timezone=America%2FNew_York"
+    alt="GitHub Streak"
+    width="500"
+  >
 </p>
 
 <br>
 
-<sub>Open to talking about experiment design, metric frameworks, and causal inference. Reach me at <a href="mailto:singhaman0524@gmail.com">singhaman0524@gmail.com</a>.</sub>
+<sub>
+  Open to talking about experiment design, metric frameworks, and causal inference.
+  Reach me at
+  <a href="mailto:singhaman0524@gmail.com">singhaman0524@gmail.com</a>.
+</sub>
