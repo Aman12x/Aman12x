@@ -75,7 +75,7 @@ Right now I'm interested in getting LLMs to handle the tedious parts of analysis
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Aman12x&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=3FB9A5&amp;fire=3FB9A5&amp;currStreakLabel=3FB9A5&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;sideLabels=8B949E&amp;dates=6E7681&amp;date_format=M%20j%5B,%20Y%5D&amp;disable_animations=true&amp;timezone=America%2FNew_York"
+    src="profile/streak.svg"
     alt="GitHub Streak"
     width="500"
   >
